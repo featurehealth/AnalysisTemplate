@@ -1,0 +1,12 @@
+Binding: make_project_template
+Title: Make a New 'AnalysisTemplate' Project
+Subtitle: Create a new project based on AnalysisTemplate in RStudio.
+OpenFiles: script.R
+
+Parameter: git
+Widget: CheckboxInput
+Label: Create a git repository
+
+Parameter: renv
+Widget: CheckboxInput
+Label: Use renv with this project

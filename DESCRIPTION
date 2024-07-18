@@ -1,0 +1,18 @@
+Package: AnalysisTemplate
+Type: Package
+Title: Create an RStudio template for analysis projects
+Version: 0.1.0
+Author: Feature Health Inc
+Maintainer: Lucy M. Li <lucy@feature.health>
+Description: Creates an RStudio template for analysis projects
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: 
+    devtools,
+    ggplot2,
+    git2r,
+    here,
+    readr,
+    usethis
